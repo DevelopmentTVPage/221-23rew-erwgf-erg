@@ -1,0 +1,10 @@
+#Hugo configuration
+title = "rew ewre"
+baseURL = "https:\/\/23rew.erwgf.erg"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+
+[params]
+loginId = "1758823"
+subfolder = ""
